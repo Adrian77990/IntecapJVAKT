@@ -1,0 +1,39 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+         
+         //variables de tipo String
+         int numb1 = 1;
+         int numb2 = 2;
+         int numb3 = 3;
+         int numb4 = 4;
+         int numb5 = 5;
+         int numb6 = 6;
+         
+         //variables de tipo String
+         String texto1 = "Hola";
+         String texto2 = "Coma";
+         String texto3 = "Estas";
+         String texto4 = "Amigo";
+         String texto5 = "Mio";
+         String texto6 = ":D";
+         
+        System.out.println("****------------- Impresion de variables enteras -----------------*****");
+        System.out.println("entero = " + numb1);
+        System.out.println("entero = " + numb2);
+        System.out.println("entero = " + numb3);
+        System.out.println("entero = " + numb4);
+        System.out.println("entero = " + numb5);
+        System.out.println("entero = " + numb6);
+        
+        System.out.println("****------------- Impresion de variables cadenas -----------------*****");
+        System.out.println("cadena = " + texto1);
+        System.out.println("cadena = " + texto2);
+        System.out.println("cadena = " + texto3);
+        System.out.println("cadena = " + texto4);
+        System.out.println("cadena = " + texto5);
+        System.out.println("cadena = " + texto6);
+        
+        
+     }
+}
